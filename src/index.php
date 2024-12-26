@@ -1,7 +1,7 @@
 <?php 
 
 
-namespace anand\HelloWorld;
+namespace packagistcustom\HelloWorld;
 
 class Index
 {
