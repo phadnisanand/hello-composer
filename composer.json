@@ -1,17 +1,17 @@
 {
-    "name": "vitalis/hello-composer",
+    "name": "anand/hello-composer",
     "description": "A simple hello world composer package",
     "type": "library",
     "license": "MIT",
     "authors": [
         {
-            "name": "Ogbonna Vitalis",
+            "name": "Ogbonna anand",
             "email": "agavitalisogbonna@gmail.com"
         }
     ],
     "minimum-stability": "stable",
     "autoload": {
-        "psr-4": {"vitalis\\HelloWorld\\": "src/"}
+        "psr-4": {"anand\\HelloWorld\\": "src/"}
     },
     "require": {}
 }
